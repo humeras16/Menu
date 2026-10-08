@@ -1,6 +1,6 @@
 print()
 print()
-print("\033[93mWELCOME TO Big Bang Burgers💥\033[0m")
+print("\033[93mWELCOME TO GrillZilla💥\033[0m")
 print()
 
 final = 0
@@ -54,7 +54,7 @@ while (True):
     else:
         print("Invalid input")
 
-print("\033[94mTHANK YOU for choosing Big Bang Burgers 💗\033[0m")
+print("\033[94mTHANK YOU for choosing GrillZilla💗\033[0m")
 print("\033[94m    VISIT AGAIN 🤍    \033[0m")
 print()
 print("\033[92mYour final bill is: $\033[0m", final)
